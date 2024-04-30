@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\bin\Release\net6.0\Supermarket.Infrastructure.deps.json
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\bin\Release\net6.0\Supermarket.Infrastructure.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\bin\Release\net6.0\Supermarket.Infrastructure.pdb
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\bin\Release\net6.0\Supermarket.Domain.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\bin\Release\net6.0\Supermarket.Service.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\bin\Release\net6.0\Supermarket.Domain.pdb
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\bin\Release\net6.0\Supermarket.Service.pdb
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\obj\Release\net6.0\Supermarket.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\obj\Release\net6.0\Supermarket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\obj\Release\net6.0\Supermarket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\obj\Release\net6.0\Supermarket.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\obj\Release\net6.0\Supermarket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\obj\Release\net6.0\Supermarket.Infrastructure.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\obj\Release\net6.0\Supermarket.Infrastructure.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\obj\Release\net6.0\refint\Supermarket.Infrastructure.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\obj\Release\net6.0\Supermarket.Infrastructure.pdb
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Infrastructure\obj\Release\net6.0\ref\Supermarket.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\bin\Release\net6.0\Supermarket.Service.deps.json
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\bin\Release\net6.0\Supermarket.Service.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\bin\Release\net6.0\Supermarket.Service.pdb
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\bin\Release\net6.0\Supermarket.Domain.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\bin\Release\net6.0\Supermarket.Domain.pdb
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\obj\Release\net6.0\Supermarket.Service.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\obj\Release\net6.0\Supermarket.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\obj\Release\net6.0\Supermarket.Service.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\obj\Release\net6.0\Supermarket.Service.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\obj\Release\net6.0\Supermarket.Service.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\obj\Release\net6.0\Supermarket.Service.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\obj\Release\net6.0\Supermarket.Service.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\obj\Release\net6.0\refint\Supermarket.Service.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\obj\Release\net6.0\Supermarket.Service.pdb
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Service\obj\Release\net6.0\ref\Supermarket.Service.dll

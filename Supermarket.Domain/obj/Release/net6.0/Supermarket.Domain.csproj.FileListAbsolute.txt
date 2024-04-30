@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\bin\Release\net6.0\Supermarket.Domain.deps.json
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\bin\Release\net6.0\Supermarket.Domain.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\bin\Release\net6.0\Supermarket.Domain.pdb
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\obj\Release\net6.0\Supermarket.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\obj\Release\net6.0\Supermarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\obj\Release\net6.0\Supermarket.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\obj\Release\net6.0\Supermarket.Domain.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\obj\Release\net6.0\Supermarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\obj\Release\net6.0\Supermarket.Domain.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\obj\Release\net6.0\refint\Supermarket.Domain.dll
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\obj\Release\net6.0\Supermarket.Domain.pdb
+C:\Users\PC\Documents\GitHub\Supermarket\Supermarket.Domain\obj\Release\net6.0\ref\Supermarket.Domain.dll
